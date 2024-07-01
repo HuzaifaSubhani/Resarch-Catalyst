@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 - #### run the Streamlit:
 ``` bash
-streamlit run frontend.py
+streamlit run ResearchCatalyst.py
 ```
 ## Contributing
 
